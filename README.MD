@@ -6,7 +6,7 @@ API For a project purely for learning purposes
 
 Un-zip the API and run it 👍
 
-Don't forget to create the database
+Don't forget to create the database and change your username and password in application.properties
 
 create database gamedb;
 
