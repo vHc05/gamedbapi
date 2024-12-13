@@ -1,7 +1,9 @@
 # GAME DB API
 
-A brief description of what this project does and who it's for
+API For a project purely for learning purposes
 
 # INSTALLATION
 
 Un-zip the API and run it 👍
+
+The API has been done with JDK17 be careful while running so you may find problems
